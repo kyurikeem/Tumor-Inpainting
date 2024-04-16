@@ -6,7 +6,7 @@
 - Python 3.8
 - Pytorch 1.13.1+cu117
 
-Download the checkpoints from the Drive repository below to the directory 'ckpt/': https://drive.google.com/file/d/1Mr-DxvjWH5g5pnSbLGdwUnm0rjCZ_Rgn/view?usp=share_link
+Download the checkpoints from the [Model Card](https://huggingface.co/kyurikim/Tumor-Inpainting/tree/main) to the directory `ckpt/`
 
 For inference:
 
